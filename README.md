@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @DreamIsland00
+- 👀 I’m interested in Data Science and Financial Markets
+- 🌱 I’m currently learning Python.
